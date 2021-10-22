@@ -3,4 +3,4 @@
 simple Random Color Generator
 
 
-![Screenshot](Random-Color-Genertor.png)
+![Screenshot](Random-color-genertor.png)
